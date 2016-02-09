@@ -1,0 +1,18 @@
+{
+  "name" : "blueblazeassociates/blueblaze--tools",
+  "description" : "Blue Blaze Tools.  Provides some extra tools for making WordPress site development easier.",
+  "type" : "wordpress-muplugin",
+  "homepage" : "https://github.com/blueblazeassociates/blueblaze--tools",
+  "license" : "GPL-2.0+",
+  "authors" : [{
+    "name" : "Ed Gifford",
+    "homepage" : "http://www.blueblazeassociates.com",
+    "role" : "Author/Creator",
+    "email" : "egifford@blueblazeassociates.com"
+    }
+  ],
+  "keywords" : [
+  ],
+  "replace": {
+  }
+}
