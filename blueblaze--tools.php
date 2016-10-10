@@ -95,7 +95,7 @@ function __blueblaze_tools__checked_selected_helper( $helper, $current, $echo, $
 function blueblaze_tools__stop_heartbeat() {
   wp_deregister_script( 'heartbeat' );
 }
-if ( true === filter_var( getenv( 'BBA_WORDPRESS_DISABLE_HEARTBEAT' ), FILTER_VALIDATE_BOOLEAN, FILTER_NULL_ON_FAILURE ) ) {
+if ( defined( 'BBA_WORDPRESS_DISABLE_HEARTBEAT' ) && true === filter_var( BBA_WORDPRESS_DISABLE_HEARTBEAT, FILTER_VALIDATE_BOOLEAN, FILTER_NULL_ON_FAILURE ) ) {
   add_action( 'init', 'blueblaze_tools__stop_heartbeat', 1 );
 }
 
