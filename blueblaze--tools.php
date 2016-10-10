@@ -11,7 +11,7 @@
  * Plugin Name:       Blue Blaze Tools
  * Plugin URI:        https://github.com/blueblazeassociates/blueblaze--tools
  * Description:       Provides some extra tools for making WordPress site development easier.
- * Version:           0.1.0
+ * Version:           1.0.0
  * Author:            Blue Blaze Associates
  * Author URI:        http://www.blueblazeassociates.com
  * License:           GPL v2 or later
