@@ -1,6 +1,6 @@
 <?php
 /**
- * Blue Blaze Favicons
+ * Blue Blaze Tools
  *
  * @author  Blue Blaze Associates
  * @license GPL-2.0+
@@ -11,7 +11,7 @@
  * Plugin Name:       Blue Blaze Tools
  * Plugin URI:        https://github.com/blueblazeassociates/blueblaze--tools
  * Description:       Provides some extra tools for making WordPress site development easier.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Blue Blaze Associates
  * Author URI:        http://www.blueblazeassociates.com
  * License:           GPL v2 or later
