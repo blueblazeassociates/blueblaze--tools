@@ -1,13 +1,25 @@
 <?php
+/**
+ * Blue Blaze Favicons
+ *
+ * @author  Blue Blaze Associates
+ * @license GPL-2.0+
+ * @link    https://github.com/blueblazeassociates/blueblaze--tools
+ */
+
 /*
-Plugin Name: Blue Blaze Tools
-Plugin URI:  https://github.com/blueblazeassociates/blueblaze--tools
-Description: Provides some extra tools for making WordPress site development easier.
-Version:     0.1.0
-Author:      Blue Blaze Associates
-Author URI:  http://www.blueblazeassociates.com
-License:     GPL v2 or later
-*/
+ * Plugin Name:       Blue Blaze Tools
+ * Plugin URI:        https://github.com/blueblazeassociates/blueblaze--tools
+ * Description:       Provides some extra tools for making WordPress site development easier.
+ * Version:           0.1.0
+ * Author:            Blue Blaze Associates
+ * Author URI:        http://www.blueblazeassociates.com
+ * License:           GPL v2 or later
+ * License URI:       http://www.gnu.org/licenses/gpl-2.0.html
+ * GitHub Plugin URI: https://github.com/blueblazeassociates/blueblaze--tools
+ * Requires WP:       4.5
+ * Requires PHP:      5.6
+ */
 
 /**
  * http://www.smashingmagazine.com/2011/03/08/ten-things-every-wordpress-plugin-developer-should-know/
